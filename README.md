@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Kele-Bingtang/Kele-BingTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,13 +18,9 @@ Here are some ideas to get you started:
 </a>
 
 
-<div style="margin-top: 90px;">
-  <a href="https://github.com/Kele-Bingtang/">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
-  </a>
-</div>
-
-
+<a href="https://github.com/Kele-Bingtang/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
+</a>
 
 
 ### 你好，世界 👋
@@ -41,7 +35,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: <youngkbt.cn>
+- 😄 Pronouns: youngkbt
+- ⚡ Fun fact: 🏀🏃‍
 
