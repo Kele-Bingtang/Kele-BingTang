@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Beijing
 - 💬 You can ask me about java
-- 📫 How to reach me: <https://youngkbt.cn>
+- 📫 How to reach me: <https://youngkbt.cn?contact=1>
 - 😄 Pronouns: youngkbt
-- ⚡ Fun fact: 🏀🏃‍
+- ⚡ Fun fact: 🏀 & 🏃‍ & 💻
 - :meat_on_bone: Meat lover
 
 ## My Website
 
 <https://youngkbt.cn>
   
-## My Blog Website
+## My Blog Websites
 
 - Main(fast)：<https://notes.youngkbt.cn/>
 - GitHub Pages(fast)：<https://github.notes.youngkbt.cn/>
