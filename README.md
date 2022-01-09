@@ -13,15 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div display:flex>
-  <a href="https://github.com/Kele-Bingtang/">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kele-Bingtang&theme=algolia&count_private=true&show_icons=true" />
-  </a>
-
-  <a href="https://github.com/Kele-Bingtang/">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
-  </a>
-</div>
+<a href="https://github.com/Kele-Bingtang/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kele-Bingtang&theme=algolia&count_private=true&show_icons=true" />
+</a>
 
 
 ### 你好，世界 👋
@@ -30,6 +24,10 @@ Here are some ideas to get you started:
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
+
+<a href="https://github.com/Kele-Bingtang/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
