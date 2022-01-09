@@ -21,35 +21,22 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
 </a>
 
-<div align="right">
-  
-## my website
+## Hello World 👋
+
+- 🔭 I’m currently working on Beijing
+- 💬 You can ask me about java
+- 📫 How to reach me: <https://youngkbt.cn>
+- 😄 Pronouns: youngkbt
+- ⚡ Fun fact: 🏀🏃‍
+- :meat_on_bone: Meat lover
+
+## My Website
 
 <https://youngkbt.cn>
   
-## my blog website
+## My Blog Website
 
 - Main(fast)：<https://notes.youngkbt.cn/>
 - GitHub Pages(fast)：<https://github.notes.youngkbt.cn/>
 - Gitee Pages(fast)：<http://gitee.notes.youngkbt.cn/>
 - My Server(slow)：<https://server.notes.youngkbt.cn/>
-</div>
-
-
-## 你好，世界 👋
-
-
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: <youngkbt.cn>
-- 😄 Pronouns: youngkbt
-- ⚡ Fun fact: 🏀🏃‍
-
