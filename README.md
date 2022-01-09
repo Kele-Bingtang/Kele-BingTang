@@ -19,9 +19,13 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kele-Bingtang&theme=algolia&count_private=true&show_icons=true" />
 </a>
 
-<a href="https://github.com/Kele-Bingtang/">
-  <img style="margin-top: 90px;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
-</a>
+
+<div style="margin-top: 90px;">
+  <a href="https://github.com/Kele-Bingtang/">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
+  </a>
+</div>
+
 
 
 
