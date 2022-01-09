@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Kele-Bingtang/">
-  <img algin="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
 </a>
 
 
