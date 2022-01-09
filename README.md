@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
 ## My Blog Websites
 
-- Main(fast)：<https://notes.youngkbt.cn/>
-- GitHub Pages(fast)：<https://github.notes.youngkbt.cn/>
-- Gitee Pages(fast)：<http://gitee.notes.youngkbt.cn/>
-- My Server(slow)：<https://server.notes.youngkbt.cn/>
+- 1️⃣ Main(fast)：<https://notes.youngkbt.cn/>
+- 2️⃣ GitHub Pages(fast)：<https://github.notes.youngkbt.cn/>
+- 3️⃣ Gitee Pages(fast)：<http://gitee.notes.youngkbt.cn/>
+- 4️⃣ My Server(slow)：<https://server.notes.youngkbt.cn/>
