@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display:flex">
+<div display:flex>
   <a href="https://github.com/Kele-Bingtang/">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kele-Bingtang&theme=algolia&count_private=true&show_icons=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kele-Bingtang&theme=algolia&count_private=true&show_icons=true" />
   </a>
 
   <a href="https://github.com/Kele-Bingtang/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
   </a>
 </div>
 
