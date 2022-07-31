@@ -44,10 +44,12 @@ Here are some ideas to get you started:
   
 ## My Blog Websites :bookmark:
 
-- 1️⃣ Main(fast)：<https://notes.youngkbt.cn/>
-- 2️⃣ GitHub Pages(fast)：<https://github.notes.youngkbt.cn/>
-- 3️⃣ Gitee Pages(fast)：<http://gitee.notes.youngkbt.cn/>
-- 4️⃣ My Server(slow)：<https://server.notes.youngkbt.cn/>
+- 1️⃣ Full Version Of Main（Fast）：<https://notes.youngkbt.cn/>
+- 2️⃣ Full Version Of GitHub Pages（Fast）：<https://github.youngkbt.cn/>
+- 3️⃣ Full Version Of Gitee Pages（Fast）：<https://kele-bingtang.gitee.io/>
+- 4️⃣ Full Version Of My Server（Slow）：<https://server.notes.youngkbt.cn/>
+- 5️⃣ Pure Version Of Main（No Fancy Effect, Fast）：<https://pure.notes.youngkbt.cn/>
+- 6️⃣ Pure Version Of GitHub Pages（No Fancy Effect, Fast）：<https://github.youngkbt.cn/pure-blog/>
 
 ## Tech Stacks 🐾
 
