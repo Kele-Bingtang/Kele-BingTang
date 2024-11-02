@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - :globe_with_meridians: 中文
 - :office: 深圳 Shenzhen
-- :briefcase: 工作两年 One year
+- :briefcase: 工作两年 Two year
 - :alarm_clock: 8:00 - 23:00 [UTC+8](https://time.is/UTC+8)
 - :heart: 🏀 🏃‍ 💻
 
